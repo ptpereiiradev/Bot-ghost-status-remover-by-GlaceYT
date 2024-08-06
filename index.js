@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["🌐 Bot Oficial da AceStore","🎫 Se tiveres alguma dúvida, abre ticket!"];
 
 
 let currentIndex = 0;
